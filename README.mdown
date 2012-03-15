@@ -69,3 +69,69 @@ Getting the SSH key can be a pain
   - Email address
   - GitHub username or email address
   - GitHub password
+
+## Repos
+
++ _Repo_ is short for _repository_. This is the name for our projects
++ Let's make a folder for our repos
++ In Finder, navigate to your home directory **~/** or **Cmd + Shift + H**
++ Create a new folder **repos**
+
+## Cloning via GitHub app
+
++ Clone this repo via GitHub app. Click on [** Clone in Mac**](github-mac://openRepo/https://github.com/nclud/git-training)
++ In the save file prompt, clone this repo into your **~/repos/** folder as **git-training**
+
+## Making changes
+
++ Let's create a new file
++ Duplicate **trainees/trainee-template.txt**
++ Change the name of **trainee-template copy.txt** to **firstname-lastinitial.txt**, i.e. **dave-d.txt**
++ Awesome, now let's commit this change
+
+## Making a commit
+
++ Open the **GitHub app**
++ Select the **nclud/git-training** repo
++ In the left-hand icon navigation, select **Changes**
++ Under _Uncommited Changes_ you'll see your new file already selected. This means the new file is already _staged_. (We'll get into staging later)
+
+Commits require a message -- a basic statement to keep track of what changes you have made.
+
++ In **commit summary**, enter a message about adding the file, i.e. : **Added dave-d trainee**
++ Then click the **Commit** button
++ You'll see your commit as **Unsynced Commit**
++ View **History** (left-hand icon navigation) and you'll see your commit
+
+We'll be syncing this commit later. Let's keep making changes.
+
+## Making more changes
+
++ Open your trainee file in a text editor (TextEdit works).
++ Add in your info.
+
+For example:
+
+    Name: Dave D
+    Twitter: @desandro
+    Favorite 90's TV show: MTV Rock n Jock
+    Preferred breakfast food: English breakfast
+    Last time jumped rope: Prolly 2 years ago
+    Peanut butter [ smooth / chunky / ew gross ]: SUPERCHUNKY
+
++ Save the file
+
+## Making another commit
+
++ Back in GitHub app, go to **Changes**
++ You'll see the lines you have _added_ in green, and the lines you have _removed_ in red
+
+In our case, all the previous lines have been removed, and all the edited lines appear as added. This is just how Git handles changes.
+
++ Like with the last commit, add a message **Commit summary**, i.e. **Added trainee info for dave-d**
++ Click **Commit**
+
+You should now have two unsynced commits. You might tempted to click that inviting _Sync_ button. Do not. You're not ready for that.
+
+
+
