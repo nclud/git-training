@@ -131,7 +131,9 @@ In our case, all the previous lines have been removed, and all the edited lines 
 + Like with the last commit, add a message **Commit summary**, i.e. **Added trainee info for dave-d**
 + Click **Commit**
 
-You should now have two unsynced commits. You might tempted to click that inviting _Sync_ button. Do not. You're not ready for that.
+## Syncing
 
+You should now have two unsynced commits.
 
++ Click the **Sync** button
 
