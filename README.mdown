@@ -158,7 +158,18 @@ The GitHub app is a great interface once for working with repos that are already
 + Checking out commits
 
 
+## GitX
 
++ Creating new repo
++ Checking out commits
++ Push
++ pull
+
+
+## GitHub site
+
++ viewing changes
++ submitting issues
 
 
 
