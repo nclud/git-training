@@ -137,3 +137,28 @@ You should now have two unsynced commits.
 
 + Click the **Sync** button
 
+Two things just happened:
+
+1. Your changes were _pushed_ up to the GitHub remove server
+2. Other's people changes were _pulled_ into your local repo
+
+You should now see commits from your colleagues.
+
+## Finish with GitHub app
+
+Awesome!
+
+You are now on your way to collaborating with Git.
+
+### But...
+
+The GitHub app is a great interface once for working with repos that are already on GitHub. But it doesn't do a good job with a lot of parts of Git. Like...
+
++ Creating a new repo
++ Checking out commits
+
+
+
+
+
+
